@@ -15,11 +15,6 @@ export default function Nav() {
           </Link>
         </li>
         <li>
-          <Link legacyBehavior href="/blog">
-            <a>Blog</a>
-          </Link>
-        </li>
-        <li>
           <Link legacyBehavior href="/mite">
             <a>見て</a>
           </Link>
