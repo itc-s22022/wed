@@ -3,7 +3,7 @@ import styles from 'styles/blog.module.css'
 
 export default function Blog() {
   return (
-    <ul className={styles.pop_btn}>
+    <ul>
       <li>
         <h2><Link href="/">Home</Link></h2>
       </li>
