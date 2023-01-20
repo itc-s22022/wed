@@ -34,6 +34,11 @@ export default function Nav() {
             <a>草</a>
           </Link>
         </li>
+        <li>
+          <Link legacyBehavior href="/ken">
+            <a>県</a>
+          </Link>
+        </li>
       </ul>
     </nav>
   )
